@@ -7,7 +7,7 @@ This project showcase the E-commerce Sales Analysis using Microsoft Excel.
 
 * Steps involved:
 
-+ Data Cleaning: This dataset was analysed and cleaned using power query such as changing the date format,removing errors,nulls, replacing typographical errors with proper values and removing un-necessary columns for better analysis has been done.
++ Data Cleaning: This dataset was analysed and cleaned using power query such as adjusting the date format,removing errors,nulls, replacing typographical errors with proper values and removing un-necessary columns for better analysis.
 + Data Understanding for key insights.
 + Data Processing by adding customised column like profit margin.
 + Data Analysis by Pivot Tables ,Excel Functions and Slicers.

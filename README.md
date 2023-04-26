@@ -11,7 +11,7 @@ This project showcase the E-commerce Sales Analysis using Microsoft Excel.
 + Data Understanding for key insights.
 + Data Processing by adding customised column like profit margin.
 + Data Analysis by Pivot Tables ,Excel Functions and Slicers.
-+ Data Visualisation to create different charts.
++ Data Visualisation by creating different charts.
 + Creating an interactive Dashboard/Report to summarize the analysis.
 
 * Explanation:

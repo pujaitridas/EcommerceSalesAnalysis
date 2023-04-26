@@ -18,7 +18,7 @@ This project showcase the E-commerce Sales Analysis using Microsoft Excel.
 
 1.KPIs- Sales, Profit, No.of Quantity, No.of orders, Profit margin shows their respective values through different filters when involved.
 
-2.Ship Mode Analysis- Sales categorised by different ship modes shown in percentage using doughnut chart.
+2.Ship Mode Analysis- Sales categorised by different ship modes shown in percentage using donut chart.
 
 3.Country wise Analysis- Top 5 countries with highest sales shown by a bar chart.
 
